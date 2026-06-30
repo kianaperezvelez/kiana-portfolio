@@ -27,3 +27,66 @@ I’m a Business Intelligence Analyst with a strong foundation in statistics, da
 <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="45" /> Jira
 
 </p>
+
+Projects
+Power BI Projects
+
+
+Project Title (Placeholder)
+A brief description of what this Power BI project will showcase — such as KPI tracking, data modeling, DAX measures, or interactive visuals.
+
+Preview  
+(Insert image or GIF of your dashboard here)
+
+Links
+
+Add Power BI details
+
+Upload PBIX file
+
+Tableau Projects
+Project Title (Placeholder)
+A short description of your Tableau project — highlighting storytelling, filters, parameters, or custom calculations.
+
+Preview  
+(Insert dashboard screenshot or GIF here)
+
+Links
+
+Add Tableau details
+
+Embed Tableau Public link
+
+Excel VBA Projects
+
+
+
+
+Project Title (Placeholder)
+Describe the VBA automation or Excel solution — such as macros, data cleaning tools, or interactive spreadsheets.
+
+Preview  
+(Insert screenshot of workbook or macro UI)
+
+Links
+
+Add VBA details
+
+Insert code snippet
+
+Python Projects
+
+
+
+
+Project Title (Placeholder)
+Explain what your Python project covers — data analysis, automation, visualization, or machine learning.
+
+Preview  
+(Insert chart, notebook screenshot, or terminal output)
+
+Links
+
+Add Python details
+
+Add notebook link
