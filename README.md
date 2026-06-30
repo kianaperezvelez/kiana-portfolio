@@ -8,9 +8,9 @@ I’m a Business Intelligence Analyst with a strong foundation in statistics, da
 
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="45" /> Tableau
 
-<img src="https://cdn.worldvectorlogo.com/logos/alteryx.svg" height="45" /> Alteryx
+<img height="45" alt="17828503083656766677059301824032" src="https://github.com/user-attachments/assets/8381437a-b4b8-405c-af2b-5738fd258571" /> Alteryx
 
-<img src="https://cdn.worldvectorlogo.com/logos/snowflake.svg" height="45" /> Snowflake
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" height="45" /> Snowflake
 
 <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="45" /> SQL
 
