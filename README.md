@@ -1,5 +1,5 @@
 # About Me
-I’m a Business Intelligence Analyst with a strong foundation in statistics, data analyst, and visualization. I graduated in May 2022 from the University of Central Florida with a B.S. in Statistics. Currently, I support end to end data processes at NBCUniversal. My work centers on transforming complex data between multiple business units into clear, actionable insights that empower teams to make data driven decisions.
+I’m a Business Intelligence Analyst with a strong foundation in statistics, data analytics, and visualization. I graduated in May 2022 from the University of Central Florida with a B.S. in Statistics. Currently, I support end to end data processes at NBCUniversal. My work centers on transforming complex data between multiple business units into clear, actionable insights that empower teams to make data driven decisions.
 
 # My Toolkit
 <p align="left">
