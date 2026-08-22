@@ -40,53 +40,16 @@ This calendar view showcases the total cost of bookings for a selected arrival m
 <img src="https://i.imgur.com/9RoDqvh.png"/>
 Links
 
-Add Power BI details
+Dataset: https://www.kaggle.com/datasets/benardmwinzi/hotel-bookings-data
 
-Upload PBIX file
+<strong>R Birth Weight Analysis Project</strong>
 
-Tableau Projects
-Project Title (Placeholder)
-A short description of your Tableau project — highlighting storytelling, filters, parameters, or custom calculations.
-
-Preview  
-(Insert dashboard screenshot or GIF here)
-
-Links
-
-Add Tableau details
-
-Embed Tableau Public link
-
-Excel VBA Projects
-
-
-
-
-Project Title (Placeholder)
-Describe the VBA automation or Excel solution — such as macros, data cleaning tools, or interactive spreadsheets.
-
-Preview  
-(Insert screenshot of workbook or macro UI)
+<img src="https://i.imgur.com/zljyzKr.jpeg"/>
+<img src="https://i.imgur.com/UUXuVLq.jpeg"/>
+<img src="https://i.imgur.com/le1zLuz.jpeg"/>
+<img src="https://i.imgur.com/wo84ion.jpeg"/>
+<img src="https://i.imgur.com/oe4bFSI.jpeg"/>
 
 Links
 
-Add VBA details
-
-Insert code snippet
-
-Python Projects
-
-
-
-
-Project Title (Placeholder)
-Explain what your Python project covers — data analysis, automation, visualization, or machine learning.
-
-Preview  
-(Insert chart, notebook screenshot, or terminal output)
-
-Links
-
-Add Python details
-
-Add notebook link
+Dataset: https://r-packages.io/datasets/Birthwt
