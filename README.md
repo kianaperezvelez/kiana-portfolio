@@ -34,6 +34,7 @@ I’m a Business Intelligence Analyst with a strong foundation in statistics, da
 This calendar view showcases the total cost of bookings for a selected arrival month based on the date range of when the reservations were made. One report page showcases a single month with an option for variances versus prior year while the other displays current and prior year side by side. This view was made to track the performance of promotion periods and comparing them against prior year's performance.
 
 <strong>Preview</strong>
+
 <img src="https://i.imgur.com/vSTbQHD.gif"/>
 
 <img src="https://i.imgur.com/9RoDqvh.png"/>
