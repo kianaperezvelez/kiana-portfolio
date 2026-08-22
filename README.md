@@ -36,7 +36,7 @@ Arrivals Calendar
 A brief description of what this Power BI project will showcase — such as KPI tracking, data modeling, DAX measures, or interactive visuals.
 
 Preview  
-<img src="https://i.imgur.com/s0lCtSz.gif"/>
+<img src="https://i.imgur.com/vSTbQHD.gif"/>
 
 Links
 
