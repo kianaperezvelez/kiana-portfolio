@@ -32,8 +32,9 @@ Projects
 Power BI Projects
 
 
-Project Title (Placeholder)
+Arrivals Calendar
 A brief description of what this Power BI project will showcase — such as KPI tracking, data modeling, DAX measures, or interactive visuals.
+<img src="https://i.imgur.com/s0lCtSz.gif"/>
 
 Preview  
 (Insert image or GIF of your dashboard here)
