@@ -18,7 +18,7 @@ I’m a Business Intelligence Analyst with a strong foundation in statistics, da
 
 <img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" height="45" /> R
 
-<img src="https://cdn.worldvectorlogo.com/logos/sas-1.svg" height="45" /> SAS
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SAS_logo_horiz.svg/1280px-SAS_logo_horiz.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="45" /> SAS
 
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" height="45" /> Excel / VBA
 
