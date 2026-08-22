@@ -28,16 +28,14 @@ I’m a Business Intelligence Analyst with a strong foundation in statistics, da
 
 </p>
 
-Projects
-Power BI Projects
-
-
-Arrivals Calendar
+# Projects
+Power BI Arrivals Calendar
 A brief description of what this Power BI project will showcase — such as KPI tracking, data modeling, DAX measures, or interactive visuals.
 
 Preview  
 <img src="https://i.imgur.com/vSTbQHD.gif"/>
 
+<img src="https://i.imgur.com/9RoDqvh.png"/>
 Links
 
 Add Power BI details
