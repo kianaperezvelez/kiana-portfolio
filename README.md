@@ -38,7 +38,6 @@ This calendar view showcases the total cost of bookings for a selected arrival m
 <img src="https://i.imgur.com/vSTbQHD.gif"/>
 
 <img src="https://i.imgur.com/9RoDqvh.png"/>
-Links
 
 Dataset: https://www.kaggle.com/datasets/benardmwinzi/hotel-bookings-data
 
@@ -49,7 +48,5 @@ Dataset: https://www.kaggle.com/datasets/benardmwinzi/hotel-bookings-data
 <img src="https://i.imgur.com/le1zLuz.jpeg"/>
 <img src="https://i.imgur.com/wo84ion.jpeg"/>
 <img src="https://i.imgur.com/oe4bFSI.jpeg"/>
-
-Links
 
 Dataset: https://r-packages.io/datasets/Birthwt
