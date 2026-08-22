@@ -30,7 +30,8 @@ I’m a Business Intelligence Analyst with a strong foundation in statistics, da
 
 # Projects
 Power BI Arrivals Calendar
-A brief description of what this Power BI project will showcase — such as KPI tracking, data modeling, DAX measures, or interactive visuals.
+
+This calendar view showcases the total cost of bookings for a selected arrival month based on the date range of when the reservations were made. One report page showcases a single month with an option for variances versus prior year while the other displays current and prior year side by side. This view was made to track the performance of promotion periods and comparing them against prior year's performance.
 
 Preview  
 <img src="https://i.imgur.com/vSTbQHD.gif"/>
